@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react,Java**
 
-- ⚡ Fun fact **My thirst for knowledge is killing me**
+- ⚡ Fun fact **My thirst for knowledge is killing me** (ikr, cringe)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
