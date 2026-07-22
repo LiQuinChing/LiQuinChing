@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vihara Ching</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=liquinching" alt="liquinching" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[![trophy](https://github-profile-trophy.vercel.app/?username=liquinching)](https://github.com/ryo-ma/github-profile-trophy)" alt="liquinching" /></a> </p>
 
 - 🌱 I’m currently learning **ML**
 
