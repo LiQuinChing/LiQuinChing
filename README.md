@@ -2,8 +2,8 @@
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-alpha.vercel.app/?username=liquinching&theme=onedark" alt="liquinching" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=liquinching&show_icons=true&theme=onedark" alt="liquinching" />
   </a>
 </p>
 
