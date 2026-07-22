@@ -3,7 +3,7 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=liquinching&theme=onedark&v=1" alt="liquinching" />
+    <img src="https://github-profile-trophy-alpha.vercel.app/?username=liquinching&theme=onedark" alt="liquinching" />
   </a>
 </p>
 
